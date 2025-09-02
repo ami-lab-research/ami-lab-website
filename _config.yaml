@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: ami-lab-research
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Ambient Intelligence Lab
+subtitle: Intelligence Everywhere, for Everyone.
+description: Exploring human-centered AI for intelligent environments that promote wellbeing, energy efficiency, sustainability, and equity.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
